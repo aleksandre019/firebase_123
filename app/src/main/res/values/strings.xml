@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Group 1 Firebase Project</string>
+    <string name="upload">upload</string>
+    <string name="back">Back</string>
+    <string name="enter_url">enter url</string>
+    <string name="enter_user_name">enter user name</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="forgot_n_password">forgot \n password</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="enter">enter</string>
+    <string name="enter_old_password">ENTER OLD PASSWORD</string>
+    <string name="enter_new_password">ENTER NEW PASSWORD</string>
+    <string name="re_enter_password">RE-ENTER PASSWORD</string>
+    <string name="password_recover">password recover</string>
+</resources>
